@@ -2,7 +2,7 @@
 
 A curated list of resources for researchers, educators, policymakers, and parents navigating AI policy as it affects children and learning environments.
 
-Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet), founder of [SafeAI.School](https://safeai.school), an independent, not-for-profit AI literacy platform for families and schools.
+Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open repository on AI policy and governance. Part of ongoing work on [SafeAI.School](https://safeai.school).
 
 > **Scope:** This list focuses specifically on children (ages 0-18), families, schools, and educational contexts.
 ---
