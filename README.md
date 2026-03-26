@@ -79,7 +79,9 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 
 ### Neuroplasticity and Child Development
 
-- [American Psychological Association: Screen Time and Cognitive Development](https://www.apa.org/topics/children-teens/screen-time)
+- [American Psychological Association: Screen Time and Cognitive Development](https://www.apa.org/news/press/releases/2025/06/screen-time-problems-children)
+- [Effects of generative artificial intelligence on cognitive effort and task performance: study protocol for a randomized controlled experiment among college students](https://pmc.ncbi.nlm.nih.gov/articles/PMC12255134/)
+
 
 ---
 
