@@ -67,13 +67,13 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 - [Stanford HAI: AI Index (Annual)](https://hai.stanford.edu/ai-index). Includes education and policy sections
 
 ### Children and AI: Academic and Institutional
-
-- [Brookings: A New Direction for Students in an AI World, Rebecca Winthrop (2024)](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world/)
-- [Brookings: AI and Education, Solving the Equity and Quality Challenge](https://www.brookings.edu/research/ai-and-education/)
-- [RAND: Using Artificial Intelligence Tools in K-12 Classrooms (2024)](https://www.rand.org/pubs/research_reports/RRA956-21.html). Nationally representative US survey of teachers and districts
-- [RAND: AI Use in Schools Is Quickly Increasing but Guidance Lags Behind (2025)](https://www.rand.org/pubs/research_reports/RRA4180-1.html). Most current update, includes student and parent data
-- [JRC: Artificial Intelligence and the Future of Learning (EU Joint Research Centre)](https://joint-research-centre.ec.europa.eu/ai-education_en)
-- [Alan Turing Institute: AI and Education](https://www.turing.ac.uk/research/research-topics/data-science-and-ai-education)
+- [Brookings: A New Direction for Students in an AI World, Rebecca Winthrop (2026)](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/)
+- [RAND: Using Artificial Intelligence Tools in K-12 Classrooms (2024)](https://eric.ed.gov/?id=ED648514). Nationally representative US survey of teachers and districts
+- [RAND: AI Use in Schools Is Quickly Increasing but Guidance Lags Behind (2025)](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA4100/RRA4180-1/RAND_RRA4180-1.pdf). Most current update, includes student and parent data
+- [JRC: Digital Transformation of Education (EU Joint Research Centre)](https://joint-research-centre.ec.europa.eu/projects-and-activities/education-and-training/digital-transformation-education_en)
+- [Alan Turing Institute: Response on Generative AI in Education](https://www.turing.ac.uk/news/publications/response-government-call-evidence-generative-ai)
+- [Center for Humane Technology: Rethinking School in the Age of AI (podcast)](https://www.humanetech.com/podcast/rethinking-school-in-the-age-of-ai)
+- [Center for Humane Technology: AI Is Breaking Education — Rebecca Winthrop Has the Blueprint to Fix It (Substack)](https://centerforhumanetechnology.substack.com/p/ai-is-breaking-education-rebecca)
 
 ### Neuroplasticity and Child Development
 
