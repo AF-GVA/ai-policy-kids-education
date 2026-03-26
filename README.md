@@ -60,17 +60,17 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 ## Research Reports and Indices
 
 ### Key Annual Reports
-
+-- [Common Sense Media: A New Look at Families' Attitudes on AI (2026)](https://www.commonsensemedia.org/research/a-new-look-at-families-attitudes-on-ai)
 - [Common Sense Media: Teens and AI (2024)](https://www.commonsensemedia.org/sites/default/files/research/report/2024-the-dawn-of-the-ai-era_final-release-for-web.pdf). Direct PDF. Primary source for teen AI usage statistics
-- [Pew Research Center: Teens and Technology](https://www.pewresearch.org/internet/topic/teens/). Updated annually
+- [Pew Research Center: How Teens Use and View AI](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/).
 - [WEF: Future of Jobs Report (2025)](https://www.weforum.org/reports/the-future-of-jobs-report-2025/). Source of the "65% of future jobs" framing
 - [Stanford HAI: AI Index (Annual)](https://hai.stanford.edu/ai-index). Includes education and policy sections
 
 ### Children and AI: Academic and Institutional
 - [Brookings: A New Direction for Students in an AI World, Rebecca Winthrop (2026)](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/)
 - [RAND: More Students Use AI for Homework, and More Believe It Harms Critical Thinking (2026)](https://www.rand.org/pubs/research_reports/RRA4742-1.html).
-- [RAND:Education and Literacy](https://www.rand.org/topics/education-and-literacy.html?content_type_ss=Research&rows=12)
-- [RAND: Using Artificial Intelligence Tools in K-12 Classrooms (2024)](https://www.rand.org/pubs/research_reports/RRA956-21.html). Nationally representative US survey of teachers and districts
+- [RAND:Education and Literacy](https://www.rand.org/topics/education-and-literacy.html)
+- [RAND: Using Artificial Intelligence Tools in K-12 Classrooms (2024)](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA900/RRA956-21/RAND_RRA956-21.pdf).
 - [RAND: AI Use in Schools Is Quickly Increasing but Guidance Lags Behind (2025)](https://www.rand.org/pubs/research_reports/RRA4180-1.html). Most current update, includes student and parent data
 - [JRC: Digital Transformation of Education (EU Joint Research Centre)](https://joint-research-centre.ec.europa.eu/projects-and-activities/education-and-training/digital-transformation-education_en)
 - [Alan Turing Institute: Response on Generative AI in Education](https://www.turing.ac.uk/news/publications/response-government-call-evidence-generative-ai)
@@ -88,22 +88,22 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 ## AI Literacy Frameworks for Education
 
 - [UNESCO: K-12 AI Curriculum Resources](https://www.unesco.org/en/digital-education/artificial-intelligence)
-- [OECD: AI Literacy for All (2023)](https://oecd.ai/en/wonk/oecd-ai-literacy)
+- [OECD: Evolving AI capabilities and the school curriculum: Emerging implications and a case study on writing (2023)](https://joint-research-centre.ec.europa.eu/projects-and-activities/education-and-training/digital-transformation-education_en)
+- [OECD: The Future of AI Literacy Education: Integrating OECD Education 2030 with Technical and Ethical Perspectives](https://edtechbooks.org/jaid_14_2/qdttmafkcf)
 - [Day of AI, MIT RAISE](https://dayofai.org). Classroom-ready AI curriculum, ages 10+
 - [AI4K12: Artificial Intelligence for K-12 (USA)](https://ai4k12.org). Five Big Ideas in AI framework
 - [Elements of AI (University of Helsinki)](https://www.elementsofai.com). Free course, accessible to older teens and adults
 - [Oxford: Institute for Ethics in AI](https://www.oxford-aiethics.ox.ac.uk/). Research, events and public programmes on AI ethics
-- [Common Sense Media: AI Literacy Lessons](https://www.commonsensemedia.org/ai)
 - [Mozilla Foundation: AI Literacy](https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/mtf-cohorts/2023-mtf-cohort/ai-literacy/)
 
 ---
 
 ## School Governance and Institutional AI Policy
 
-- [ISTE: AI in Education Policy Toolkit](https://www.iste.org/areas-of-focus/AI-in-education)
-- [European Schoolnet: AI in Education for School Leaders](https://www.europeanschoolnet.org/activities/AI-and-Education)
-- [CoSN: Responsible AI in K-12 Schools](https://www.cosn.org/emerging-technologies/responsible-ai/)
-- [UNESCO: Guidance for Generative AI in Education and Research (2023)](https://unesdoc.unesco.org/ark:/48223/pf0000395373). Includes school governance checklist
+- [ISTE: AI in Education Policy Toolkit](https://iste-ascd.org/ai)
+- [European Schoolnet: AI in Education for School Leaders](http://www.eun.org/focus-areas/ai-in-schools?p_p_id=56_INSTANCE_rfWW3EYcgiFg&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1)
+- [CoSN: Responsible AI in K-12 Schools](https://www.cosn.org/ai/)
+- [UNESCO:AI and education: Protecting the rights of learners Sustainable DevelopmentGoalsAI and educationProtecting the rights of learners](https://unesdoc.unesco.org/ark:/48223/pf0000395373). Includes school governance checklist
 - [Future of Life Institute: AI Policy Resources](https://futureoflife.org/cause-area/artificial-intelligence/)
 
 ---
