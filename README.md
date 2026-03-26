@@ -28,7 +28,7 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 
 - [EU AI Act: Official Text (2024)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689). Article 50 (transparency obligations) and prohibited uses are directly relevant to children
 - [EU AI Act: High-Level Summary](https://artificialintelligenceact.eu/the-act/). Accessible entry point
-- [GDPR: Age of Digital Consent by Country](https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-052020-consent-under-regulation-2016679_en). Age 13 (platform default), 15 (France), 16 (Switzerland, Germany)
+- [GDPR: Age of Digital Consent by Country](https://www.edpb.europa.eu/news/news/2026/data-protection-day-2026-keeping-childrens-personal-data-safe-online_en). Age 13 (platform default), 15 (France), 16 (Switzerland, Germany)
 - [EU Digital Services Act: Child Safety Provisions](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en)
 
 ---
@@ -38,22 +38,22 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 ### Europe
 
 - [France: Cadre d'usage de l'IA en éducation (2025)](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647). Ministry of Education official AI framework for schools, published June 2025 after national consultation
-- [France: Mesures IA pour l'éducation (2025)](https://www.education.gouv.fr/intelligence-artificielle-au-service-de-l-education-des-mesures-ambitieuses-pour-accompagner-les-416551). Ambitious AI measures announced February 2025
-- [France: IA dans les établissements scolaires, Rapport IGÉSR (2025)](https://www.education.gouv.fr/l-intelligence-artificielle-dans-les-etablissements-scolaires-450655). State-of-play report with 10 recommendations
+- [France: Mesures IA pour l'éducation (2025)](https://www.education.gouv.fr/intelligence-artificielle-au-service-de-l-education-des-mesures-ambitieuses-pour-accompagner-les-462591). Ambitious AI measures announced February 2025
+- [France: IA dans les établissements scolaires, Rapport IGÉSR (2025)](https://www.education.gouv.fr/igesr/l-intelligence-artificielle-dans-les-etablissements-scolaires-465627). State-of-play report with 10 recommendations
 - [UK: Department for Education, Generative AI in Education (2023)](https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education)
-- [UK: Children's Code (Age Appropriate Design Code)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/age-appropriate-design-a-code-of-practice-for-online-services/)
+- [UK: Children's Code (Age Appropriate Design Code)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/age-appropriate-design-a-code-of-practice-for-online-services/)
 - [EU: DigComp 2.2, Digital Competence Framework](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415)
 
 ### North America
 
 - [USA: Department of Education, AI in Education Report (2023)](https://www2.ed.gov/documents/ai-report/ai-report.pdf). Direct PDF
-- [USA: Executive Order on Safe, Secure, and Trustworthy AI (2023)](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/). Includes education provisions
+- [USA: Executive Order on Safe, Secure, and Trustworthy AI (2023)](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/). Includes education provisions
 - [Canada: Algorithmic Impact Assessment](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
 
 ### International
 
 - [Australia: Framework for Generative AI in Schools (2024 Review)](https://www.education.gov.au/schooling/resources/australian-framework-generative-artificial-intelligence-ai-schools). Endorsed by all Education Ministers, June 2025
-- [Singapore: MOE EdTech Masterplan](https://www.moe.gov.sg/education-in-sg/our-programmes/ed-tech-masterplan)
+- [Singapore: MOE EdTech Masterplan](https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan)
 
 ---
 
@@ -61,15 +61,17 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 
 ### Key Annual Reports
 
-- [Common Sense Media: Teens and AI (2024)](https://www.commonsensemedia.org/research). Primary source for teen AI usage statistics
+- [Common Sense Media: Teens and AI (2024)](https://www.commonsensemedia.org/sites/default/files/research/report/2024-the-dawn-of-the-ai-era_final-release-for-web.pdf). Direct PDF. Primary source for teen AI usage statistics
 - [Pew Research Center: Teens and Technology](https://www.pewresearch.org/internet/topic/teens/). Updated annually
 - [WEF: Future of Jobs Report (2025)](https://www.weforum.org/reports/the-future-of-jobs-report-2025/). Source of the "65% of future jobs" framing
 - [Stanford HAI: AI Index (Annual)](https://hai.stanford.edu/ai-index). Includes education and policy sections
 
 ### Children and AI: Academic and Institutional
 - [Brookings: A New Direction for Students in an AI World, Rebecca Winthrop (2026)](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/)
-- [RAND: Using Artificial Intelligence Tools in K-12 Classrooms (2024)](https://eric.ed.gov/?id=ED648514). Nationally representative US survey of teachers and districts
-- [RAND: AI Use in Schools Is Quickly Increasing but Guidance Lags Behind (2025)](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA4100/RRA4180-1/RAND_RRA4180-1.pdf). Most current update, includes student and parent data
+- [RAND: More Students Use AI for Homework, and More Believe It Harms Critical Thinking (2026)](https://www.rand.org/pubs/research_reports/RRA4742-1.html).
+- [RAND:Education and Literacy](https://www.rand.org/topics/education-and-literacy.html?content_type_ss=Research&rows=12)
+- [RAND: Using Artificial Intelligence Tools in K-12 Classrooms (2024)](https://www.rand.org/pubs/research_reports/RRA956-21.html). Nationally representative US survey of teachers and districts
+- [RAND: AI Use in Schools Is Quickly Increasing but Guidance Lags Behind (2025)](https://www.rand.org/pubs/research_reports/RRA4180-1.html). Most current update, includes student and parent data
 - [JRC: Digital Transformation of Education (EU Joint Research Centre)](https://joint-research-centre.ec.europa.eu/projects-and-activities/education-and-training/digital-transformation-education_en)
 - [Alan Turing Institute: Response on Generative AI in Education](https://www.turing.ac.uk/news/publications/response-government-call-evidence-generative-ai)
 - [Center for Humane Technology: Rethinking School in the Age of AI (podcast)](https://www.humanetech.com/podcast/rethinking-school-in-the-age-of-ai)
@@ -77,7 +79,6 @@ Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet). Open reposito
 
 ### Neuroplasticity and Child Development
 
-- [Vanderbilt University: Environmental Footprint of AI (2025)](https://engineering.vanderbilt.edu/news/2024/vanderbilt-study-ai-large-language-models-environmental-footprint/). Source for AI energy and water usage comparisons
 - [American Psychological Association: Screen Time and Cognitive Development](https://www.apa.org/topics/children-teens/screen-time)
 
 ---
